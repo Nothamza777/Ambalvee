@@ -1,0 +1,13 @@
+{
+  "name": "Ambalvee — Every Service. One Team.",
+  "short_name": "Ambalvee",
+  "description": "130+ services, AI apps & custom connectors, and dedicated outsourced teams for students, businesses and organizations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080d",
+  "theme_color": "#07080d",
+  "icons": [
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
